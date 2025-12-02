@@ -1,6 +1,6 @@
 // only change for these 2//
 
-export const server = 'https://identitycards.co.in';
+export const server = 'https://shop.identitycards.co.in';
 export const local = 'http://localhost/php-backend';
 
 //No need to change//
