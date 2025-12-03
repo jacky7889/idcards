@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "install": "npm install --legacy-peer-deps",
+    "install": "npm install",
     "start": "next start",
     "lint": "eslint"
   },
